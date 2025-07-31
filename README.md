@@ -31,8 +31,9 @@ npm run android
 # OR using Yarn
 yarn android
 ```
-<img width="406" height="746" alt="Screenshot 2025-08-01 at 12 37 30 AM" src="https://github.com/user-attachments/assets/24dc8152-27e4-4954-9da5-7055eca69d18" />
-<img width="399" height="741" alt="Screenshot 2025-08-01 at 12 37 50 AM" src="https://github.com/user-attachments/assets/e3a0be97-eb8c-46a8-9183-18f9c553f763" />
+<img width="405" height="743" alt="Screenshot 2025-08-01 at 12 39 25 AM" src="https://github.com/user-attachments/assets/203b51d3-6fa5-477e-85d9-95580232b41f" />
+<img width="405" height="750" alt="Screenshot 2025-08-01 at 12 39 55 AM" src="https://github.com/user-attachments/assets/11a825dc-1685-4bb0-bace-70b5f8233779" />
+
 
 
 ### iOS
